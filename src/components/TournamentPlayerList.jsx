@@ -3,6 +3,7 @@ import { Users, Trophy } from "lucide-react";
 import { TournamentCardHeader } from "../components/TournamentCardHeader";
 import { PlayerInput } from "../components/PlayerInput";
 import { PlayerList } from "../components/PlayerList";
+import { Link } from "react-router-dom";
 
 export default function TournamentPlayerList() {
   const [players, setPlayers] = useState([]);
@@ -20,9 +21,8 @@ export default function TournamentPlayerList() {
   const canStart = players.length >= 4;
 
   const startTournament = () => {
-    alert(
-      `Tournament started with ${players.length} players: ${players.join(", ")}`
-    );
+    alert("Tournament started");
+    navigate("/tournament");
   };
 
   const bracketSize = Math.pow(
@@ -52,17 +52,21 @@ export default function TournamentPlayerList() {
             </div>
           )}
 
-          <button
-            disabled={!canStart}
-            onClick={startTournament}
-            className="w-full py-2 bg-yellow-500 hover:bg-yellow-600 text-white rounded text-lg font-medium disabled:opacity-50"
+          <Link
+            to="/tournament"
+            state={{ players }}
+            className={`block w-full py-2 text-center rounded text-lg font-medium ${
+              canStart
+                ? "bg-yellow-500 hover:bg-yellow-600 text-white"
+                : "bg-yellow-400 text-gray-500 pointer-events-none"
+            }`}
           >
             <div className="flex justify-center items-center gap-2">
               <Trophy className="h-4 w-4" />
               Start Tournament
               {!canStart && ` (${4 - players.length} more needed)`}
             </div>
-          </button>
+          </Link>
 
           <div className="text-center text-xs text-gray-500 space-y-1">
             <p>Minimum 4 players required</p>
