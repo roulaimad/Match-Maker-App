@@ -5,13 +5,13 @@
    version="1.1"
    x="0px"
    y="0px"
-   viewBox="0 0 500 500"
+   viewBox="0 0 500 198.72641"
    xml:space="preserve"
    id="svg113"
-   sodipodi:docname="treeof44.svg"
+   sodipodi:docname="treeof4.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    width="500"
-   height="500"
+   height="198.72641"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,25 +25,25 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="1.1285424"
-   inkscape:cx="388.5543"
-   inkscape:cy="257.85473"
-   inkscape:window-width="1920"
-   inkscape:window-height="991"
-   inkscape:window-x="-9"
+   inkscape:zoom="2.2570848"
+   inkscape:cx="218.86639"
+   inkscape:cy="79.748888"
+   inkscape:window-width="2400"
+   inkscape:window-height="1321"
+   inkscape:window-x="2391"
    inkscape:window-y="-9"
    inkscape:window-maximized="1"
    inkscape:current-layer="g87"><inkscape:page
      x="0"
      y="0"
      width="500"
-     height="500"
+     height="198.72641"
      id="page120"
-     margin="0"
+     margin="152.40898 0 150.63678"
      bleed="0" /></sodipodi:namedview>
 <g
    id="g85"
-   transform="translate(-3.1013455,241.01885)"
+   transform="translate(-3.1013455,91.268163)"
    style="display:none"
    inkscape:label="hidden tournament part">
 						<g
@@ -323,7 +323,8 @@
 						</g>
 					</g>
 <g
-   id="Objects">
+   id="Objects"
+   transform="translate(0,-149.75069)">
 	<g
    id="g89">
 		
@@ -417,18 +418,18 @@
 							<path
    style="fill:#ffffff;stroke:#0e47a0;stroke-width:0.6782;stroke-miterlimit:10"
    d="m 95.126,183.268 c 0,0.794 -0.644,1.437 -1.437,1.437 -0.794,0 -1.437,-0.644 -1.437,-1.437 0,-0.794 0.644,-1.437 1.437,-1.437 0.794,0 1.437,0.643 1.437,1.437 z"
-   id="path21" />
+   id="radio1v2" />
 							<path
    style="fill:#ffffff;stroke:#0e47a0;stroke-width:0.6782;stroke-miterlimit:10"
    d="m 95.126,227.868 c 0,0.794 -0.644,1.437 -1.437,1.437 -0.794,0 -1.437,-0.644 -1.437,-1.437 0,-0.794 0.644,-1.437 1.437,-1.437 0.794,0 1.437,0.643 1.437,1.437 z"
-   id="path22" />
+   id="radio3v4" />
 							
 								<circle
    style="fill:#ffffff;stroke:#0e47a0;stroke-width:0.6782;stroke-miterlimit:10"
    cx="166.354"
    cy="206.02901"
    r="1.437"
-   id="circle22" />
+   id="12v34" />
 							
 							<g
    id="g27">
@@ -474,7 +475,7 @@
 					<text
    transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
    style="font-size:20.5338px;font-family:BebasNeueBold;fill:#333333;stroke-width:1.01555"
-   id="champion"
+   id="player1234"
    x="425.11511"
    y="246.60069"><tspan
      style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.6998px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.01555"
@@ -505,14 +506,14 @@
      id="tspan116">Player</tspan></text><text
    transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:1.01555"
-   id="winner12"
+   id="player12"
    x="273.81619"
    y="207.77512"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.01555"
      id="tspan117">Player</tspan></text><text
    transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:1.01555"
-   id="winner34"
+   id="player34"
    x="293.72922"
    y="303.14752"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.01555"

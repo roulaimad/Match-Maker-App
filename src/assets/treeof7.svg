@@ -25,15 +25,15 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="2.8284271"
-   inkscape:cx="227.51161"
-   inkscape:cy="153.79572"
-   inkscape:window-width="2400"
-   inkscape:window-height="1321"
-   inkscape:window-x="2391"
+   inkscape:zoom="2"
+   inkscape:cx="240"
+   inkscape:cy="137"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
    inkscape:window-y="-9"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g39"><inkscape:page
+   inkscape:current-layer="g1"><inkscape:page
      x="0"
      y="0"
      width="484.39087"
@@ -453,14 +453,14 @@
      id="line21" /><path
      style="fill:#ffffff;stroke:#0e47a0;stroke-width:1.27822;stroke-miterlimit:10"
      d="m 127.12033,195.94347 c 0,1.48473 -1.22334,2.68713 -2.72972,2.68713 -1.50827,0 -2.72971,-1.20426 -2.72971,-2.68713 0,-1.48474 1.22334,-2.68711 2.72971,-2.68711 1.50828,0 2.72972,1.20237 2.72972,2.68711 z"
-     id="path21" /><path
+     id="radio1v2" /><path
      style="fill:#ffffff;stroke:#0e47a0;stroke-width:1.27822;stroke-miterlimit:10"
      d="m 127.12033,279.34314 c 0,1.48475 -1.22334,2.68713 -2.72972,2.68713 -1.50827,0 -2.72971,-1.20426 -2.72971,-2.68713 0,-1.48473 1.22334,-2.68711 2.72971,-2.68711 1.50828,0 2.72972,1.20238 2.72972,2.68711 z"
-     id="path22" /><ellipse
+     id="radio3v4" /><ellipse
      style="fill:#ffffff;stroke:#0e47a0;stroke-width:1.27822;stroke-miterlimit:10"
      cx="262.42438"
      cy="405.26996"
-     id="circle22"
+     id="radio56v7"
      rx="2.729712"
      ry="2.6871152" /><path
      style="fill:none;stroke:#0e47a0;stroke-width:1.27821;stroke-miterlimit:10"
@@ -469,7 +469,7 @@
      style="fill:#ffffff;stroke:#0e47a0;stroke-width:1.27822;stroke-miterlimit:10"
      cx="261.03741"
      cy="238.09325"
-     id="circle22-1"
+     id="radio12v34"
      rx="2.729712"
      ry="2.6871152" /><g
      id="g27"
@@ -502,7 +502,7 @@
 							</g><path
      style="fill:#ffffff;stroke:#0e47a0;stroke-width:1.27821;stroke-miterlimit:10"
      d="m 398.96908,324.91002 c 0,1.48474 1.22334,2.68715 2.72972,2.68715 1.50827,0 2.72971,-1.20427 2.72971,-2.68715 0,-1.48473 -1.22332,-2.6871 -2.72971,-2.6871 -1.50829,0 -2.72972,1.20237 -2.72972,2.6871 z"
-     id="path129" /><text
+     id="radio1234v567" /><text
      transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.879399"
      id="player1"
@@ -512,11 +512,11 @@
        id="tspan113-1">Player 1</tspan></text><text
      transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
      style="font-size:17.7808px;font-family:BebasNeueBold;fill:#333333;stroke-width:0.879399"
-     id="champion"
-     x="525.32739"
+     id="player1234567"
+     x="509.15527"
      y="323.74728"><tspan
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:14.4609px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.879399"
-       id="tspan113">champion</tspan></text><text
+       id="tspan113">player1234567</tspan></text><text
      transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.879399"
      id="player3"
@@ -540,18 +540,18 @@
        id="tspan116">Player 4</tspan></text><text
      transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.879399"
-     id="winner12"
+     id="player12"
      x="224.86893"
      y="202.01546"><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.879399"
-       id="tspan117">Winner 1</tspan></text><text
+       id="tspan117">player12</tspan></text><text
      transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.879399"
-     id="winner34"
+     id="player34"
      x="238.01035"
      y="286.91696"><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.879399"
-       id="tspan118">Winner 2</tspan></text><line
+       id="tspan118">player34</tspan></text><line
      style="fill:none;stroke:#0e47a0;stroke-width:1.27822;stroke-miterlimit:10"
      x1="124.39062"
      y1="363.17078"
@@ -560,7 +560,7 @@
      id="line3" /><path
      style="fill:#ffffff;stroke:#0e47a0;stroke-width:1.27822;stroke-miterlimit:10"
      d="m 127.12033,363.17066 c 0,1.48475 -1.22334,2.68713 -2.72972,2.68713 -1.50827,0 -2.72971,-1.20426 -2.72971,-2.68713 0,-1.48473 1.22334,-2.68711 2.72971,-2.68711 1.50828,0 2.72972,1.20238 2.72972,2.68711 z"
-     id="path4" /><g
+     id="radio5v6" /><g
      id="g7"
      transform="matrix(1.8995908,0,0,1.8699479,-53.580154,-62.930584)">
 								<path
@@ -591,11 +591,11 @@
        id="tspan8">Player 6</tspan></text><text
      transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.879399"
-     id="winner56"
+     id="player56"
      x="258.05161"
      y="371.40631"><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.879399"
-       id="tspan9">Winner 3</tspan></text><text
+       id="tspan9">player56</tspan></text><text
      transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.879399"
      id="player7"
@@ -624,7 +624,7 @@
 								</g><text
        transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.879399"
-       id="player72"
+       id="player7bye"
        x="264.00375"
        y="439.06714"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.879399"
@@ -653,18 +653,18 @@
 							</g><text
        transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.879399"
-       id="winner1234"
+       id="player1234"
        x="399.63208"
        y="326.78928"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.879399"
-         id="tspan131">Winner 4</tspan></text></g><line
+         id="tspan131">player1234</tspan></text></g><line
      style="fill:none;stroke:#0e47a0;stroke-width:1.2807;stroke-miterlimit:10;stroke-dasharray:none"
      x1="288.04092"
      y1="405.31277"
      x2="265.00446"
      y2="405.31277"
      id="line36" /><g
-     id="g39"
+     id="g1"
      transform="translate(-12.942948,85.150904)"><g
        id="g38"
        transform="matrix(1.8995908,0,0,1.8699479,99.541614,-107.06812)">
@@ -682,11 +682,17 @@
 							</g><text
        transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.879399"
-       id="winner567"
+       id="player567"
        x="399.63208"
        y="326.78928"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.879399"
-         id="tspan38">Winner 5</tspan></text></g></g></g>
+         sodipodi:role="line"
+         id="tspan2"
+         x="399.63208"
+         y="326.78928"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0507px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.879399">player567</tspan></text></g><path
+     style="fill:#ffffff;stroke:#0e47a0;stroke-width:1.27822;stroke-miterlimit:10"
+     d="m 126.63952,445.4108 c 0,1.48475 -1.22334,2.68713 -2.72972,2.68713 -1.50827,0 -2.72971,-1.20426 -2.72971,-2.68713 0,-1.48473 1.22334,-2.68711 2.72971,-2.68711 1.50828,0 2.72972,1.20238 2.72972,2.68711 z"
+     id="radio7" /></g></g>
 			
 				
 			

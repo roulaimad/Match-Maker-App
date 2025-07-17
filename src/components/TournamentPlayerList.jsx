@@ -9,6 +9,7 @@ export default function TournamentPlayerList() {
   const [players, setPlayers] = useState([]);
 
   const addPlayer = (name) => {
+    if (players.length >= 8) return;
     if (name && !players.includes(name)) {
       setPlayers([...players, name]);
     }
@@ -20,11 +21,6 @@ export default function TournamentPlayerList() {
 
   const canStart = players.length >= 4;
 
-  const startTournament = () => {
-    alert("Tournament started");
-    navigate("/tournament");
-  };
-
   const bracketSize = Math.pow(
     2,
     Math.ceil(Math.log2(Math.max(4, players.length)))
@@ -33,12 +29,14 @@ export default function TournamentPlayerList() {
   return (
     <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
       <div className="w-full max-w-md mx-auto bg-white rounded-xl shadow-lg overflow-hidden">
-        <TournamentCardHeader
-          playersCount={players.length}
-          canStart={canStart}
-        />
+        <TournamentCardHeader />
         <div className="p-6 space-y-6">
           <PlayerInput onAdd={addPlayer} players={players} />
+          {players.length >= 8 && (
+            <p className="text-center text-red-500 text-sm">
+              Maximum of 8 players reached
+            </p>
+          )}
 
           {players.length > 0 ? (
             <PlayerList players={players} onRemove={removePlayer} />
@@ -69,7 +67,7 @@ export default function TournamentPlayerList() {
           </Link>
 
           <div className="text-center text-xs text-gray-500 space-y-1">
-            <p>Minimum 4 players required</p>
+            <p>Minimum 4 players required, maximum 8 players allowed</p>
           </div>
         </div>
       </div>
