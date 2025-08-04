@@ -25,12 +25,12 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="2.2570848"
-   inkscape:cx="218.86639"
-   inkscape:cy="79.748888"
-   inkscape:window-width="2400"
-   inkscape:window-height="1321"
-   inkscape:window-x="2391"
+   inkscape:zoom="3.1919999"
+   inkscape:cx="240.75815"
+   inkscape:cy="85.996242"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
    inkscape:window-y="-9"
    inkscape:window-maximized="1"
    inkscape:current-layer="g87"><inkscape:page
@@ -346,7 +346,7 @@
 				<g
    id="g86">
 					<path
-   style="fill:#ebeef0;stroke-width:1.04374"
+   style="fill:#0e47a0;stroke-width:1.04374;fill-opacity:1"
    d="M 454.77041,253.93937 H 339.15825 l 5.62912,-14.28659 c 3.37579,-8.56718 11.75162,-14.21202 21.08581,-14.21202 h 115.61216 l -5.62913,14.28658 c -3.37579,8.56719 -11.75162,14.21203 -21.0858,14.21203 z"
    id="path11" />
 					<g
@@ -429,7 +429,7 @@
    cx="166.354"
    cy="206.02901"
    r="1.437"
-   id="12v34" />
+   id="radio12v34" />
 							
 							<g
    id="g27">
@@ -466,58 +466,58 @@
 				</g><text
    transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:1.01555"
+   id="player1234"
+   x="457.90811"
+   y="241.86694"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.01555"
+     id="tspan117-9">-</tspan></text><text
+   transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:1.01555"
    id="player1"
-   x="103.8139"
+   x="125.64157"
    y="181.22716"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.01555"
      id="tspan113-1">Player</tspan></text>
 				
-					<text
-   transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
-   style="font-size:20.5338px;font-family:BebasNeueBold;fill:#333333;stroke-width:1.01555"
-   id="player1234"
-   x="425.11511"
-   y="246.60069"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.6998px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.01555"
-     id="tspan113">champion</tspan></text>
+					
 			<g
    id="g113"
    transform="translate(-735.32379,95.462801)" /><text
    transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:1.01555"
    id="player3"
-   x="126.8781"
+   x="148.70576"
    y="278.46048"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.01555"
      id="tspan114">Player</tspan></text><text
    transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:1.01555"
    id="player2"
-   x="115.34599"
+   x="137.17369"
    y="229.84383"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.01555"
      id="tspan115">Player</tspan></text><text
    transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:1.01555"
    id="player4"
-   x="138.41071"
+   x="160.23837"
    y="327.07935"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.01555"
      id="tspan116">Player</tspan></text><text
    transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:1.01555"
    id="player12"
-   x="273.81619"
+   x="293.65952"
    y="207.77512"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.01555"
-     id="tspan117">Player</tspan></text><text
+     id="tspan117">-</tspan></text><text
    transform="matrix(1.007895,0,-0.23907726,0.99216685,0,0)"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:1.01555"
    id="player34"
-   x="293.72922"
+   x="313.57254"
    y="303.14752"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.9164px;font-family:'Artifakt Element';-inkscape-font-specification:'Artifakt Element, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.01555"
-     id="tspan118">Player</tspan></text></g>
+     id="tspan118">-</tspan></text></g>
 			
 				
 			

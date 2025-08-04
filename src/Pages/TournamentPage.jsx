@@ -68,6 +68,15 @@ export default function TournamentPage() {
       );
     };
   }, [playersCount]);
+  useEffect(() => {
+    Object.entries(allMatches).forEach(([radioId, match]) => {
+      const el = document.getElementById(radioId);
+      if (el && match.winner) {
+        el.textContent = match.winner;
+        el.setAttribute("visibility", "visible");
+      }
+    });
+  }, [allMatches]);
 
   const handleConfirm = () => {
     if (currentMatch && selectedWinner) {
