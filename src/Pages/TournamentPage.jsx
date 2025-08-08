@@ -96,7 +96,7 @@ export default function TournamentPage() {
 
   return (
     <div className="min-h-screen p-6 flex flex-col items-center ">
-      <h1 className="text-2xl font-bold mb-4 ">Tournament Bracket</h1>
+      <h1 className="text-6xl font-mono text-black mb-4">Tournament Bracket</h1>
       <div className="w-full flex justify-center">
         {BracketSVG ? (
           <BracketSVG style={{ height: "70vh", width: "auto" }} />

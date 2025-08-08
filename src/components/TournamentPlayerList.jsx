@@ -4,6 +4,7 @@ import { TournamentCardHeader } from "../components/TournamentCardHeader";
 import { PlayerInput } from "../components/PlayerInput";
 import { PlayerList } from "../components/PlayerList";
 import { Link } from "react-router-dom";
+import { shuffleArray } from "../utils/shuffle";
 
 export default function TournamentPlayerList() {
   const [players, setPlayers] = useState([]);
@@ -52,7 +53,7 @@ export default function TournamentPlayerList() {
 
           <Link
             to="/tournament"
-            state={{ players }}
+            state={{ players: shuffleArray(players) }}
             className={`block w-full py-2 text-center rounded text-lg font-medium ${
               canStart
                 ? "bg-yellow-500 hover:bg-yellow-600 text-white"
