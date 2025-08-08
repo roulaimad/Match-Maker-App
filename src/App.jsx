@@ -7,7 +7,7 @@ import TournamentPage from "./Pages/TournamentPage";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/Match-Maker-App">
         <Routes>
           <Route path="/" element={<TournamentSetup />} />
           <Route path="/tournament" element={<TournamentPage />} />
